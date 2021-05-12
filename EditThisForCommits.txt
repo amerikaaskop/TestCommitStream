@@ -5,4 +5,5 @@ third edit is the charm
 
 -- Testing Release 10.1:
 first try - failed due to http connection to V1
-second try - changed to https in CTM
+second try - changed to https in CTM - worked!
+third try - new backlog item B-01023
