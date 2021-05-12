@@ -4,4 +4,5 @@ second edit
 third edit is the charm
 
 -- Testing Release 10.1:
-first try
+first try - failed due to http connection to V1
+second try - changed to https in CTM
