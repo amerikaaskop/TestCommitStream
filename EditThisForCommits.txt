@@ -7,3 +7,5 @@ third edit is the charm
 first try - failed due to http connection to V1
 second try - changed to https in CTM - worked!
 third try - new backlog item B-01023 and D-01010
+
+add edit to test relrino_04
