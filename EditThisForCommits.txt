@@ -1,16 +1,3 @@
-01122022 Regression
-
-TestJiraGithub
+01312022 Regression
 
 - first edit
-- second edit 
-- third edit (ST-26)
-
-01132022
-
-- fourth edit
-- fifth edit
-
-01182022
-
-- sixth edit
