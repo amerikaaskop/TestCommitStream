@@ -1,18 +1,11 @@
 10032023
-- first change D-26826
+-- first change CPT-1
 - second change S-91325
 ---
 - third change D-26296
 - fourth change S-90764
 ---
 - fifth change D-27140
-- sixth change S-96391
----
-- seventh change S-97122
-- eighth change D-27062
-\\\
 
-JIRA:
--- first change: CPT-1
 
 
