@@ -1,6 +1,7 @@
 12192023 - Release Regression
 - first change S-97369
 - second change: no workitemid
+- on branch for 27725 we mention S-93549
 
 
 
