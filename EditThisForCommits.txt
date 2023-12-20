@@ -1,6 +1,5 @@
-12192023 - Release Regression
-- first change S-97369
-- second change: no workitemid
+12202023 - S-95999
+- first change for a non-existing workitem: D-97369
 
 
 
