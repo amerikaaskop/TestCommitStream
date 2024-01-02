@@ -1,5 +1,6 @@
 01022024 - D-32219
-- first change for a workitem: D-32219
+- first change: D-32219
+- second change: S-96477
 
 
 
