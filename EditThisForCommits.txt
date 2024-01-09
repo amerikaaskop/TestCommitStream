@@ -13,5 +13,6 @@
 -----------------------------
 
 - a code change for S-105108
+- a code change for D-32046
 
 
