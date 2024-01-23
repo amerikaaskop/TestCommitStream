@@ -7,7 +7,7 @@
 -- fourth change: D-32046
 
 -- fifth change: S-91685
-- sicth change: D-32614
+-- sixth change: D-32614
 
 - seventh change: S-95349
 - eighth change: D-26154
