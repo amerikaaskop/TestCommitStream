@@ -8,6 +8,6 @@ Agility:
 JIRA:
 -- first change: CJT-3
 -- second change: CJT-4
-- third change: second_rogue_commit
+-- third change: second_rogue_commit
 
 - fourth change: CJT-5
