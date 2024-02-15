@@ -6,5 +6,7 @@ Agility:
 -- third change: first_rogue_commit
 
 rogue_commits:
--1
+-2
+-3
+
 
