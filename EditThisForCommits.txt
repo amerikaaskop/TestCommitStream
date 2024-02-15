@@ -1,13 +1,7 @@
 02122024
 
 Agility:
-- first change: S-104366
+-- first change: S-104366
 - second change: D-32892
 - third change: first_rogue_commit
 
-JIRA:
--- first change: CJT-3
--- second change: CJT-4
--- third change: second_rogue_commit
-
--- fourth change: CJT-5
