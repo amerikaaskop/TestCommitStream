@@ -29,4 +29,5 @@ Agility:
 - nineteenth change: rogue_18
 - twentieth change: rogue_19
 - twentyfirst change: rogue_20
+- twentysecond change: rogue_21
 
