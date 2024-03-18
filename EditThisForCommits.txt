@@ -14,5 +14,6 @@ Agility:
 - fourth change: rogue_03
 - fifth change: rogue_04
 - sixth change: rogue_05
+- seventh change: rogue_06
 
 
