@@ -17,5 +17,6 @@ Agility:
 - seventh change: rogue_06
 - eighth change: rogue_07
 - nibth change: rogue_08
+- tenth change: rogue_09
 
 
