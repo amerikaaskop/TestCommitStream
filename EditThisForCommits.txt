@@ -26,4 +26,5 @@ Agility:
 - sixteenth change: rogue_15
 - seventeenth change: rogue_16
 - eighteenth change: rogue_17
+- nineteenth change: rogue_18
 
