@@ -11,6 +11,7 @@ Agility:
 - first change: S-107529
 - second change: rogue_01
 - third change: rogue_02
+- fourth change: rogue_03
 
 
 
