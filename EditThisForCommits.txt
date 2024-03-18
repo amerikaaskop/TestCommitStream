@@ -33,4 +33,5 @@ Agility:
 - twentythird change: rogue_22
 - twentyfourth change: rogue_23
 - twentyfifth change: rogue_24
+- twentysixth change: rogue_25
 
