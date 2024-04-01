@@ -1,18 +1,9 @@
-03182024
+04022024
 
 Agility:
 
-**** Rel_03262024_A ****
+**** Rel_04022024_A ****
 - first change: S-107831 
-- second change: D-82488
-- third change: first_rogue
+ second change: D-82488
+ third change: first_rogue
 
-**** Rel_03262024_B ****
-- first change: S-107321
-- second change: D-82488
-- third change: second_rogue
-
-**** Rel_03262024_C ****
-- first change: S-107795
-- second change: third_rogue
-- third change: fourth_rogue
