@@ -2,9 +2,6 @@
 
 Agility:
 
-**** Rel_04022024_A ****
-- first change: S-107831 
-- second change: D-82488
-- third change: first_rogue
-- fourth change: second_rogue
-- fifth chnage: third _rogue
+**** Rel_04092024_A ****
+- first change: S-105422
+
