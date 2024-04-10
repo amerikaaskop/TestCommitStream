@@ -4,7 +4,7 @@ Agility:
 
 **** Rel_04092024_A ****
 -- first change: S-105422
-- second change: S-108695
+-- second change: S-108695
 
 **** Rel_04092024_B ****
 - third change: S-107238
