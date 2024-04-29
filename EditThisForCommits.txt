@@ -4,6 +4,7 @@ Agility:
 
 **** GitHub_Agility_Release_04292024_A ***
 - first change: S-108379
+- second change: S-106900
 
 
 
