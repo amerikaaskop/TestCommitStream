@@ -2,7 +2,7 @@
 
 Agility:
 
-**** GitHub_Agility_Release_04292024_A ****
+**** GitHub_Agility_Release_04292024_A ***
 - first change: S-108379
 
 
