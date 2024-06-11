@@ -12,6 +12,7 @@ Agility:
 -- fifth change: D-34351
 -- sixth change: rogueB
 -- seventh change: rogueC
+-- eigth change: rogueD
 
 
 
