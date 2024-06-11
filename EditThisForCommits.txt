@@ -13,6 +13,7 @@ Agility:
 -- sixth change: rogueB
 -- seventh change: rogueC
 -- eigth change: rogueD
+-- nineth change: rogueE
 
 
 
