@@ -2,30 +2,6 @@
 
 Agility:
 
-**** App_05102024 ***
-- first change: S-109663
--- second change: D-34349
--- third change: rogueA
-
-**** second revision ****
--- fourth change: S-109104
--- fifth change: D-34351
--- sixth change: rogueB
--- seventh change: rogueC
--- eigth change: rogueD
--- nineth change: rogueE
-
-
-
-
-
-
-
-
-- first change: S-108387
-- second change: D-34352
-- third change: rogueC
-
-- first change: S-108873
-- second change S-108743
+**** 06262024 ***
+- first change: S-108874
 
