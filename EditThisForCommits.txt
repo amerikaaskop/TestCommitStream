@@ -2,12 +2,7 @@
 
 Agility:
 
-**** 07152024 ***
--- first change: S-110989
-- second change: D-34980
-- third change: D-34970
-
-**** 07222024 *****
+**** 07232024 *****
 - first change: S-110994
 -- second change: S-108878
 -- third change: S-110990
