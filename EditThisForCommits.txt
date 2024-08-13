@@ -8,7 +8,7 @@ Agility:
 - third change: S-112530
 - fourth change: S-112143
 - fifth change: rogue1
--
+- sixth change: rogue2
 -
 -
 -
