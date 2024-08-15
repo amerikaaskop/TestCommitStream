@@ -3,7 +3,7 @@
 Agility:
 
 **** 08122024 *****
-- first change: S-112014
+-- first change: S-112014
 - second change: D-35480
 - third change: S-112530
 - fourth change: S-112143
