@@ -5,7 +5,7 @@ Agility:
 **** 08152024 *****
 - first change: S-112014
 - second change: D-35480
-- third change: S-112530
+-- third change: S-112530
 -- fourth change: S-112143
 -- fifth change: rogue1
 -- sixth change: rogue2
