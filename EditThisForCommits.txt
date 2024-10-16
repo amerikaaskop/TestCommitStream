@@ -9,4 +9,5 @@ Agility:
 - fourth change: rogue_A
 
 - fifth change: S-113790
-- nsixth change: S-114139
+- sixth change: S-114139
+- seventh change: rogue_B
