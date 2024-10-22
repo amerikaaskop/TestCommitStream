@@ -3,17 +3,7 @@
 Agility:
 
 **** 10162024 *****
-- first change: S-112784
-- second change: D-37151
-- third change: S-113749
-- fourth change: rogue_A
-
-- fifth change: S-113790
-- sixth change: S-114139
-- seventh change: rogue_B
-
-10172024
-
-- eighth change: S-114270
-- nineth change: D-33838
-- tenth change: rogue03
+- first change: D-37484
+- second change: 
+- third change: 
+- fourth change: 
