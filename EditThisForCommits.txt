@@ -6,7 +6,7 @@ Agility:
 -- first change: D-37582
 - second change: S-115437
 -- third change: rogue01
-- fourth change: rogue02
+-- fourth change: rogue02
 
 - fifth change: D-37582
 - sixth change: rogue03 
