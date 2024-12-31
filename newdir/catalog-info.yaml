@@ -3,3 +3,9 @@ kind: Component
 metadata:
   name: argoapp12312024
   annotations:
+    github.com/project-slug: amerikaaskop/TestCommitStream
+    argocd/app-name: argoapp12312024
+spec:
+  type: other
+  lifecycle: unknown
+  owner: amerikaaskop
